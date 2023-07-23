@@ -4,7 +4,7 @@
 	"templates": [
 		{
 			"name": "Punpun Mural",
-			"sources": ["https://github.com/SandroHc/punpun-place/blob/master/template.png"],
+			"sources": ["https://punpun-place.pages.dev/punpun.png"],
 			"x": 325,
 			"y": 1382
 		}
