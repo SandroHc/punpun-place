@@ -7,8 +7,15 @@
 			"sources": ["https://punpun-place.pages.dev/punpun.png"],
 			"x": 325,
 			"y": 1382
-		}
+		},
+        {
+            "name": "Berserk&co swords alliance",
+            "sources": ["https://i.imgur.com/jIkrGog.png"],
+            "x": 1501,
+            "y": 1902
+        }
 	],
+	
 	"whitelist": [
 		{
 			"name": "/r/omori",
