@@ -1,0 +1,23 @@
+{
+	"faction": "r/OyasumiPunpun",
+	"contact": "https://discord.gg/2mq8rdnk",
+	"templates": [
+		{
+			"name": "Punpun Mural",
+			"sources": ["https://punpun-place.pages.dev/punpun.png"],
+			"x": 325,
+			"y": 1382
+		}
+	],
+	"whitelist": [
+		{
+			"name": "/r/omori",
+			"url": "https://raw.githubusercontent.com/sunryze-git/omoriplace2023/main/omoriplace.json"
+		},
+		{
+			"name": "Steins;Place",
+			"url": "https://r-steins-place.pages.dev/overlay.json"
+		}
+	],
+	"blacklist": []
+}
