@@ -8,12 +8,18 @@
 			"x": 325,
 			"y": 1382
 		},
-        {
-            "name": "Berserk&co swords alliance",
-            "sources": ["https://i.imgur.com/jIkrGog.png"],
-            "x": 1501,
-            "y": 1902
-        }
+		{
+			"name": "Berserk&co swords alliance",
+			"sources": ["https://i.imgur.com/jIkrGog.png"],
+			"x": 1501,
+			"y": 1902
+		},
+		{
+			"name": "astolfo",
+			"sources": ["https://cdn.discordapp.com/attachments/1131647305842425866/1132750384914497608/astolfo_v3.png"],
+			"x": 1606,
+			"y": 1902
+		}
 	],
 	
 	"whitelist": [
@@ -24,6 +30,10 @@
 		{
 			"name": "Steins;Place",
 			"url": "https://r-steins-place.pages.dev/overlay.json"
+		},
+		{
+			"name": "astolfo",
+			"url": "https://pastebin.com/raw/ESaN3Csh"
 		}
 	],
 	"blacklist": []
