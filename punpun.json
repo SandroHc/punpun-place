@@ -7,6 +7,12 @@
 			"sources": ["https://punpun-place.pages.dev/punpun.png"],
 			"x": 713,
 			"y": 1368
+		},
+		{
+			"name": "Punpun - God",
+			"sources": ["https://punpun-place.pages.dev/god.png"],
+			"x": 2857,
+			"y": 98
 		}
 	],
 	"whitelist": [
