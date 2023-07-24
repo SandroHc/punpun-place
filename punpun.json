@@ -30,6 +30,10 @@
 			"name": "/r/Algeria",
 			"url": "https://pastebin.com/raw/qT71srV8"
 		}
+		{
+			"name": "Indie Bench",
+			"url": "https://gist.githubusercontent.com/BudgieGryphon/afd6349e831c6b385ac56b3b83138f85/raw"
+		},
 	],
 	"blacklist": []
 }
